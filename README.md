@@ -2,7 +2,8 @@
 
 
 Technicals include:
-- Reactjs ^16
-- Nextjs ^9
-- Antd ^4
+- reactjs ^16
+- nextjs ^9
+- antd ^4
+- redux-saga
 ...
